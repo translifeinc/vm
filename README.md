@@ -1,2 +1,3 @@
 # Materi
-1. [Pendahuluan] ()
+1. jenis linux
+2. instalasi
